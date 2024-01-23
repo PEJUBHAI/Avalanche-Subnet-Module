@@ -16,7 +16,7 @@ This guide walks you through the process of establishing a local Avalanche Subne
 1. Execute the `avalanche subnet create` command and follow the prompts to create a Subnet configuration.
 2. Choose a name for your Subnet (e.g., mySubnet).
 3. Select `SubnetEVM` as the VM.
-4. Assign a positive integer for the ChainID (e.g., 43113).
+4. Assign a positive integer for the ChainID (e.g., 151511).
 5. Define any additional Subnet options as necessary.
 
 ### Deploying the Subnet:
